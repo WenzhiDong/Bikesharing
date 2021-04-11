@@ -11,10 +11,13 @@ I will also present my findings.
 ### Overview Distribution
 ![Overview](overview.png)
 
+Male uses bikes more frequently than female.
+Subcribers use bikes more frequently than normal customers.
 
 ### Map
 ![Map](map.png)
 
+Most of the usages are in Manhattan area.
 
 ### Checkout Time
 ![Checkout Time](checkout.png)
