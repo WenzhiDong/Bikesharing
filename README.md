@@ -9,25 +9,25 @@ I will also present my findings.
 ## Results
 
 ### Overview Distribution
-![Overview]('overview.png')
+![Overview](overview.png)
 
 
 ### Map
-![Map]('map.png')
+![Map](map.png)
 
 
 ### Checkout Time
-![Checkout Time]('checkout.png')
+![Checkout Time](checkout.png)
 
 ### Trips by Weekday
-![Trips by Weekday]('trip1.png')
+![Trips by Weekday](trip1.png)
 
 ### Trips by Weekday by Gender
-![Trips by Weekday by Gender]('trip2.png')
+![Trips by Weekday by Gender](trip2.png)
 
 
 ###  User Trips by Usertype by Gender by Weekday
-![User Trips]('trip3.png')
+![User Trips](trip3.png)
 
 
 ## Summary
