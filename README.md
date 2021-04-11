@@ -9,7 +9,9 @@ I will also present my findings.
 ## Results
 
 
-##Summary
+## Summary
+ - Males use the bikes much more frequently than Females
+ - 
 
 
 ## My Link
