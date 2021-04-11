@@ -13,4 +13,4 @@ I will also present my findings.
 
 
 ## My Link
-[link to dashboard]("https://public.tableau.com/profile/wenzhi.dong#!/")
+[linkToDashboard]("https://public.tableau.com/profile/wenzhi.dong#!/")
